@@ -1,1 +1,3 @@
-# tf_howto
+# TensorFlow How-To
+
+This is simply a personal library of annotated snippets in Juptyer Notebooks documenting how to "do" certain things in TensorFlow. Simple things, like loading a graph or using batch normalization. Most everything here is adapted from or outright copied from [Aurélien Géron](https://github.com/ageron), whose fantastic book *Hands-On Machine Learnign with Scikit-Learn and Tensorflow* I am currently working through. Géron already has all of the code and examples for the book hosted in [Notebooks in a github repository](https://github.com/ageron/handson-ml), but I also make it a point to try recreating exercises on my own to get it to stick. Moreover, Géron organizes his code by chapter, which makes perfect sense, but I find it hard sometimes to revisit old notebooks (which tend to be quite large) and look up something I forgot how to do. Hence, here I have things broken down "by task" into much smaller notebooks. 
